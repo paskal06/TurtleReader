@@ -1,0 +1,10 @@
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\bin\Debug\TurtleReader.exe.config
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\bin\Debug\TurtleReader.exe
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\bin\Debug\TurtleReader.pdb
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\obj\Debug\TurtleReader.csprojResolveAssemblyReference.cache
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\obj\Debug\TurtleReader.Properties.Resources.resources
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\obj\Debug\TurtleReader.csproj.GenerateResource.Cache
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\obj\Debug\TurtleReader.exe
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\obj\Debug\TurtleReader.pdb
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\Paskal06\Desktop\Files\Export\TurtleReader\TurtleReader\obj\Debug\TurtleReader.Form1.resources
